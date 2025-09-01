@@ -1,0 +1,3 @@
+# Optimizacion de gastos en marketing
+
+se realiza el analisis de gastos y ganancias.....
