@@ -1,5 +1,5 @@
-Analisis Preliminar de tarifas
-realice un análisis preliminar de las tarifas basado en una selección de clientes relativamente pequeña. teniendo los datos de 500 clientes de Megaline
+# Analisis Preliminar de tarifas
+Realice un análisis preliminar de las tarifas basado en una selección de clientes relativamente pequeña. teniendo los datos de 500 clientes de Megaline
 el propocuto es analizar el comportamiento de los clientes y determinar qué tarifa de prepago genera más ingresos. 
 
 Nota: Megaline redondea los segundos a minutos y los megabytes a gigabytes
